@@ -1,0 +1,19 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 172997c..b1f9180 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1 +1 @@[m
+[31m-# This is local repo[m
+\ No newline at end of file[m
+[32m+[m[32m# This is local repo[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 4ac76c7..1ccd801 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1 +1,3 @@[m
+[31m-<P> hello I am creating a new local machine file in a repo</P>[m
+\ No newline at end of file[m
+[32m+[m[32m<P> hello I am creating a new local machine file in a repo[m
+[32m+[m[32m    hello I am good[m
+[32m+[m[32m</P>[m
+\ No newline at end of file[m
